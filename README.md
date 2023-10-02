@@ -13,7 +13,7 @@ This contract allows to pass a list of addresses and a text fields to fetch and 
 
 ### Usage
 
-Contacts store:
+Deployments:
 - Eth mainnet: `0x8F412599cA1A1623B0F51f9D78da31af09953b7d`
 - Eth goerli: `0x3154827D8ffe04b21190C7acDf7f68866f2EcC6D`
 
