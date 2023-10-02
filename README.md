@@ -18,6 +18,13 @@ Deployments:
 - Eth goerli: `0x3154827D8ffe04b21190C7acDf7f68866f2EcC6D`
 
 ### Scripts
+#### Run tests
+`npx hardhat test`
+
+#### Deploy
+- Eth mainnet: `npx hardhat run scripts/deploy.ts --network mainnet`
+- Eth goerli: `npx hardhat run scripts/deploy.ts --network goerli`
+
 
 #### Verify
 - Mainnet
